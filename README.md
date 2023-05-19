@@ -125,16 +125,17 @@
     <td align="center"><strong>조인성</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>Gantt Chart</b></td>
+    <td align="center"><b>MAIN : Gantt Chart</b></td>
     <td align="center"><b>Work Space</b></td>
     <td align="center"><b>Kanban Board</b></td>
     <td align="center"><b>Calendar</b></td>
     <td align="center"><b>Database</b></td>
   </tr>
   <tr>
-    <td align="center">Back Logic</td>
+    <td align="center">SUB : Back Logic</td>
     <td align="center">Back Logic</td>
     <td align="center">Total Front</td>
     <td align="center">Total Front</td>
+    <td align="center"></td>
   </tr>
 </table>
