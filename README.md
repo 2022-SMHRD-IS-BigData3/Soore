@@ -83,8 +83,8 @@
 
 ### 초기화면/로그인
 <p align="left">
-  ![login](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/172a57a2-b2a1-420f-bd7d-25f29d2be113)
-  ![login2](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/920b8c77-6fd0-4c0a-8187-4b9c3db7be7a)
+  <img src="https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/172a57a2-b2a1-420f-bd7d-25f29d2be113" alt="login">
+  <img src="https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/920b8c77-6fd0-4c0a-8187-4b9c3db7be7a" alt="login2">
 </p>
 <br>
 
