@@ -1,5 +1,5 @@
 # 📎 SOORE(팀명: SOORE) - BPS 업무 관리 프로그램
-![main](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/3366859f-da30-4573-a1e7-9bda55bee41e)
+![main](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/2e633a9d-dbf7-4724-80bb-1550e7e02eb2)
 
 
 ## 👀 서비스 소개
@@ -83,27 +83,28 @@
 
 ### 초기화면/로그인
 <p align="left">
-  <img src="https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/b3194d43-6990-4cc9-91a6-0557db4a080e" width="400"  height="300" alt="login">
-  <img src="https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/f1ea28d2-9b02-486a-905c-78240e0c3cc5" width="400" height="300" alt="login2">
+  ![login](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/172a57a2-b2a1-420f-bd7d-25f29d2be113)
+  ![login2](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/920b8c77-6fd0-4c0a-8187-4b9c3db7be7a)
 </p>
 <br>
 
 ### Main
-![main](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/3366859f-da30-4573-a1e7-9bda55bee41e)
+![main](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/2e633a9d-dbf7-4724-80bb-1550e7e02eb2)
 
 ### Gantt Chart
-![gantt](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/fe7a8bf1-43dd-4885-a4a2-c50d16cf8098)
+![gantt](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/f2ce42aa-b5e8-4baa-9c39-24e12568911b)
 <br>
 
 ### Calendar
-![calendar](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/adb0b0c5-7658-4564-8c83-3d2695e0a7e7)
+![calendar](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/b9ef0d34-0a56-4124-8d1c-ce12009388c4)
 
 ### WorkList
-![kanban](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/807624f8-73fb-460a-915e-dfde4ca10d98)
+![kanban](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/c547680e-2cf9-4ca7-a978-540d233c2339)
 <br>
 
 ### WorkSpace/Board
-![workspace](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/1eeb92db-bd12-4834-8d37-d1cdbdf7cf67)
+![workspace](https://github.com/2022-SMHRD-IS-BigData3/Soore/assets/98467249/36c30d7c-8425-47f6-aed7-634ca1937311)
+
 <br>
 
 
